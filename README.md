@@ -16,7 +16,7 @@ Data Science Master's graduate (University of Verona) with hands-on <br>experien
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=D-Rasheed&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=D-Rasheed&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D-Rasheed&icon=4&color=1)](https://visitcount.itsvg.in)
